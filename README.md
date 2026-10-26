@@ -37,7 +37,7 @@ Current research directions may include:
 * Experimental architectures
 * Advanced product concepts
 * Photonic and information technologies
-* Human–AI collaborative development
+* Human development
 
 ---
 
