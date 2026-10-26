@@ -2,7 +2,7 @@
 
 ### Research & Development Environment
 
-**BROODIE GENESIS** is a human-led, AI-assisted research and engineering environment developed within the **SQ-ONE Research** program.
+**BROODIE GENESIS** is a human-led,research and engineering environment developed within the **SQ-ONE Research** program.
 
 The project explores the intersection of:
 
@@ -84,7 +84,7 @@ Confidential implementation details, proprietary engineering information, source
 
 **Professional Design Environment:** Herramet Design
 
-**Development approach:** Human-led research and engineering with AI-assisted development.
+**Development approach:** Human-led research and engineering with development.
 
 ---
 
