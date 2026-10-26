@@ -11,7 +11,7 @@ The project explores the intersection of:
 * Concept Engineering
 * Computational Research
 * Experimental Technologies
-* AI-Assisted Development
+  
 
 ---
 
